@@ -30,7 +30,6 @@ export const stackList: Stack[] = [
     { name: 'SQL', category: 'language' },
     { name: 'hono', category: 'backend' },
     { name: 'svelte', category: 'frontend' },
-    { name: 'Dart', category: 'language' },
     { name: 'Figma', category: 'design' },
     { name: 'Canva', category: 'design' },
     { name: 'GitHub', category: 'tools' },
